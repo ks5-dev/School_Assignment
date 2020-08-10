@@ -1,0 +1,35 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+BÀI T ẬP ÔN THI TIN H ỌC 
+4 .1 Vi ết ch ư ơng trình nh ập vào 2 s ố nguyên, ki ểm tra xem chúng có ph ải là ư ớc c ủa nhau không 
+4 .2 Vi ết chương trình giải hệ phương trình: 
+4.3 Vi ết chương trình nhập vào 3 số nguyên a, b, c. Kiểm tra xem 3 số đó có thỏa mãn: 
+- Là 3 cạnh của 1 tam giác thường 
+- Là 3 cạnh của 1 tam giác cân 
+- Là 3 cạnh của 1 tam giác đều 
+- Không là 3 cạnh của 1 tam giác 
+4.4 Vi ết ch ương trình nhập vào họ tên, điểm v ăn, điểm tóan, điểm anh văn của 1 học sinh. Sau đó in ra màn hình: họ tên, điểm trung bình, xếp lọai của học sinh đó (trên 1 dòng). Cho bi ết: 
+- Đi ểm trung bình: ( điểm văn + điểm tóan + điểm anh v ăn) / 3 
+- X ếp lo ại: Gi ỏi, nếu điểm trung bình >= 9.0 
+Khá, n ếu 7.0 <= điểm trung bình < 9.0 
+Trung bình, nếu 5.0 <= điểm trung bình < 7.0 
+Y ếu, nếu điểm trung bình < 5.0 
+4.5 Vi ết chương trình nhập vào tháng, năm rồi tính số ngày của tháng. Biết năm nhuần là năm chia hết cho 4 và nếu nó chia hết cho 100 thì cũng phải chia hết cho 400 
+4.6 Vi ết ch ư ơng trình nhập vào ký t ự. Nếu là ký tự thường thì in ra ký tự hoa tương ứng, nếu là ký tự hoa thì in ra ký tự thường tương ứng, nếu là các ký tự khác thì in ra chính nó 
+5 .1 Vi ết chương trình nhập vào một số nguyên dương n, tìm tất cả các ước số của n 
+5 .2 Vi ết chương trình tính tổng S=1+2+… ….+n, với n là số nguyên dương được nhập từ bàn phím. 5 .3 Viết chương trình tính tổng S= -1+2- 3+… ….+( -1) +n, v ới n là số nguyên dương được nhập từ bàn 
+phím. 
+5 .4 Vi ết chương trình tính tổng S= 1  2  ...  n  1  n , v ới n là số nguyên dương được nhập từ bàn phím. 
+5 .5 Vi ết chương trình tính tổng S=1 +2 +………+n , v ới n là số nguyên dương đư ợc nhập từ bàn phím 
+5 .6 Viết chương trình tính tổng bình phương của n số lẻ dương đầu tiên. 
+{VD: n=4 thì tính (1*1)+(3*3)} 
+5.7 Viết chương trình tính t ổng bình phương của n số lẻ dương đầu tiên. 
+{VD:n=3 thi tinh (1*1)+(3*3)+(5*5)} 
+5.11 Vi ết chương trình nhập vào 1 số nguyên rồi đếm số các chữ số của số đó 
+(VD: 1999 có 4 chữ s ố) 
+5.12 Vi ết chương trình nhập vào 1 số nguyên rồi in ra số đảo ngược của số đó. 
+5.13 Viết chương trình nhập vào 2 số nguyên a, b. Tìm ước số chung lớn nhất của chúng 
+5.14 Viết chương trình nhập vào số nguyên dương n. Kiểm tra xem số n có là số nguyên tố không. 5.15 Viết chương trình nhập vào 1 số nguyên dương n. Kiểm tra xem n có phải là số hòan thiện không. 5.17 Viết chương trình tìm tất cả các số có 3 chữ số abc sao cho abc = a +b +c 
+5.18 Vi ết chương trình tìm tất cả các số có 3 chữ số sao cho tổng tất cả các chữ số bằng tích của chúng. VD: a+b+c = a*b*c 
+n 
+2 2 2 
+3 3 3 
