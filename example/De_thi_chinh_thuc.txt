@@ -1,0 +1,78 @@
+S? GIÁO D?C & ÐÀO T?O
+LÂM Ð?NG
+
+Ð? THI CHÍNH TH?C
+(Ð? thi có 02 trang, g?m 3 ba`i)KÌ THI CH?N H?C SINH GI?I C?P T?NH
+NAM H?C 2010 - 2011
+
+        Môn : TIN HO?C - THCS
+Th?i gian : 150 phút (không k? th?i gian giao d?)
+        Ngày thi :   18/2/2011
+Câ´u tru´c dê` thi:
+STTTên ba`iTên file ba`i la`mTên file INPUTTên file OUTPUT1PHÂ`N TU? YÊN NGU?APTYN.PASPTYN.INPPTYN.OUT2TÔ?NG CA´C SÔ´ FIBONACIFIBO.PASFIBO.INPFIBO.OUT3CHO?N PHÂ`N THUO?NGPTHUONG.PASPTHUONG.INPPTHUONG.OUT
+Bài 1: (6 diê?m) PHÂ`N TU? YÊN NGU?A 
+	Cho ma?ng 2 chiê`u A co´ kích thu?c MxN sô´ nguyên. Ph?n t? A[i,j] du?c g?i là ph?n t? yên ng?a n?u nó là ph?n t? nh? nh?t trong hàng i d?ng th?i là ph?n t? l?n nh?t trong c?t j.
+	Em hãy l?p chuong trình ti`m phâ`n tu? yên ngu?a cu?a ma?ng A.
+	Du~ liê?u va`o: cho file PTYN.INP gô`m:
+- Do`ng dâ`u tiên  gô`m 2 sô´ M, N (0 = M,N =100)
+- M do`ng tiê´p theo, mô~i do`ng gô`m co´ N sô´ nguyên cu?a ma?ng A 
+(ca´c gia´ tri? ca´ch nhau i´t nhâ´t 1 khoa?ng ca´ch).
+	Du~ liê?u ra: ghi ra file PTYN.OUT vi? tri´ cu?a ca´c phâ`n tu? yên ngu?a (nê´u co´) hoa?c do`ng thông ba´o "Không co´ phâ`n tu? yên ngu?a".
+	Vi´ du?: 
+PTYN.INPPTYN.OUT3 3
+15	3	9
+55	4	6
+76	1	2(2,2)
+		Hoa?c :
+PTYN.INPPTYN.OUT3 3
+15	10	5
+55	4	6
+76	1	2Khong co phan tu yen ngua
+
+Bài 2: (7 diê?m) TÔ?NG CA´C SÔ´ FIBONACI
+	Dãy Fibonaci la` da~y gô`m ca´c sô´: 1, 1, 2, 3, 5, 8, .... duo?c xa´c di?nh bo?i công thu´c sau: 
+			F1=1, F2=1, Fi=Fi-1+Fi-2 vo´i i>2.
+	Em hãy bi?u di?n mô?t sô´ tu? nhiên N thành t?ng c?a i´t nhâ´t các s? Fibonaci khác nhau.
+	Du~ liê?u va`o: cho file FIBO.INP chu´a sô´ N (N = 2000000000)
+	Du~ liê?u ra: ghi ra file FIBO.OUT bi?u di?n sô´ N thành t?ng c?a i´t nhâ´t các s? Fibonaci khác nhau. 
+	
+
+
+	Vi´ du?: 
+FIBO.INPFIBO.OUT129129 = 89 + 34 + 5 + 1 
+			Hoa?c 
+FIBO.INPFIBO.OUT88 = 8	
+Ba`i 3: (7 diê?m) CHO?N PHÂ`N THUO?NG 
+	Trong ky` thi ho?c sinh gio?i môn Tin ho?c, em là ngu?i d?t gi?i d?c bi?t. Ban t? ch?c cho phép em ch?n ca´c ph?n thu?ng cho mình. Các ph?n thu?ng x?p thành m?t dãy duo?c dánh s? t? 1 d?n N (0 = N = 10000), ph?n thu?ng th? i có giá tr? là ai (1 = ai = 100). Em du?c phép ch?n ca´c ph?n thu?ng cho mình theo nguyên t?c không ch?n 3 ph?n thu?ng liên ti?p nhau trong dãy.
+	Vi?t chuong trình dê? ma´y ti´nh huo´ng dâ~n em ch?n các ph?n thu?ng sao cho t?ng giá tr? c?a các ph?n thu?ng nh?n du?c là l?n nh?t.
+	Du~ liê?u va`o: cho file PTHUONG.INP gô`m ca´c do`ng:
+- Do`ng dâ`u tiên la` sô´ phâ`n thuo?ng N
+- N do`ng tiê´p theo lâ`n luo?t la` gia´ tri? cu?a ca´c phâ`n thuo?ng.
+	Du~ liê?u ra: ghi ra file PTHUONG.OUT gô`m ca´c do`ng:
+- Do`ng dâ`u tiên ghi tô?ng gia´ tri? lo´n nhâ´t cu?a ca´c phâ`n thuo?ng da~ cho?n
+- Do`ng tiê´p theo ghi vi? tri´ cu?a ca´c phâ`n thuo?ng da~ cho?n theo thu´ tu? tang dâ`n. 
+	Vi´ du?: 
+
+PTHUONG.INPPTHUONG.OUT5
+6
+9
+1
+3
+523
+1 2 4 5			Hoa?c
+				
+PTHUONG.INPPTHUONG.OUT7
+6
+9
+1
+3
+5
+10
+432
+1 2 4 6 7
+----------H?T----------
+H? và tên thí sinh:	S? báo danh:	
+Giám th? 1:	Ký tên:	
+Giám th? 2:	Ký tên:	
+		Trang 1/1
+
